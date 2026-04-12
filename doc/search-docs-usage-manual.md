@@ -15,56 +15,56 @@
 
 ## 2. 先认识每份文档的定位
 
-- [map-search-senior-learning-roadmap.md](/Users/levi/develop/project/search/search/doc/map-search-senior-learning-roadmap.md)
+- [map-search-senior-learning-roadmap.md](map-search-senior-learning-roadmap.md)
   作用：总览版，适合先建立地图搜索整体认知。
 
-- [poi-search-principal-learning-roadmap.md](/Users/levi/develop/project/search/search/doc/poi-search-principal-learning-roadmap.md)
+- [poi-search-principal-learning-roadmap.md](poi-search-principal-learning-roadmap.md)
   作用：负责人版，补齐 POI 数据、Suggest、召回路由、粗排精排、训练闭环。
 
-- [search-architect-ultimate-roadmap.md](/Users/levi/develop/project/search/search/doc/search-architect-ultimate-roadmap.md)
+- [search-architect-ultimate-roadmap.md](search-architect-ultimate-roadmap.md)
   作用：最高目标版，面向搜索架构师，加入分布式架构、索引构建、性能、成本、团队方法论。
 
-- [search-architect-24-month-execution-plan.md](/Users/levi/develop/project/search/search/doc/search-architect-24-month-execution-plan.md)
+- [search-architect-24-month-execution-plan.md](search-architect-24-month-execution-plan.md)
   作用：执行版，按月按周推进，不让路线停留在概念上。
 
-- [search-architect-first-90-days-task-board.md](/Users/levi/develop/project/search/search/doc/search-architect-first-90-days-task-board.md)
+- [search-architect-first-90-days-task-board.md](search-architect-first-90-days-task-board.md)
   作用：起步版，把前 90 天拆到每周任务、交付物、验收标准和风险，适合立刻开干。
 
-- [search-architect-reading-experiments-and-teardowns.md](/Users/levi/develop/project/search/search/doc/search-architect-reading-experiments-and-teardowns.md)
+- [search-architect-reading-experiments-and-teardowns.md](search-architect-reading-experiments-and-teardowns.md)
   作用：输入与实操清单，告诉你读什么、做什么实验、拆什么源码。
 
-- [map-search-practice-projects.md](/Users/levi/develop/project/search/search/doc/map-search-practice-projects.md)
+- [map-search-practice-projects.md](map-search-practice-projects.md)
   作用：项目版，帮你把路线落成系统。
 
-- [map-search-templates.md](/Users/levi/develop/project/search/search/doc/map-search-templates.md)
+- [map-search-templates.md](map-search-templates.md)
   作用：模板版，记录 badcase、评估、周报、实验、方案。
 
-- [map-search-tech-design-template.md](/Users/levi/develop/project/search/search/doc/map-search-tech-design-template.md)
+- [map-search-tech-design-template.md](map-search-tech-design-template.md)
   作用：方案版，做专项时强制你说清目标、评估、风险、回滚。
 
-- [map-search-self-assessment-and-interview-bank.md](/Users/levi/develop/project/search/search/doc/map-search-self-assessment-and-interview-bank.md)
+- [map-search-self-assessment-and-interview-bank.md](map-search-self-assessment-and-interview-bank.md)
   作用：自测版，用来检查你有没有真的掌握。
 
 ## 3. 推荐使用顺序
 
 如果你刚开始：
 
-1. 先读 [map-search-senior-learning-roadmap.md](/Users/levi/develop/project/search/search/doc/map-search-senior-learning-roadmap.md)
-2. 再读 [poi-search-principal-learning-roadmap.md](/Users/levi/develop/project/search/search/doc/poi-search-principal-learning-roadmap.md)
-3. 最后读 [search-architect-ultimate-roadmap.md](/Users/levi/develop/project/search/search/doc/search-architect-ultimate-roadmap.md)
+1. 先读 [map-search-senior-learning-roadmap.md](map-search-senior-learning-roadmap.md)
+2. 再读 [poi-search-principal-learning-roadmap.md](poi-search-principal-learning-roadmap.md)
+3. 最后读 [search-architect-ultimate-roadmap.md](search-architect-ultimate-roadmap.md)
 
 如果你已经在做真实 POI 搜索开发：
 
-1. 直接读 [poi-search-principal-learning-roadmap.md](/Users/levi/develop/project/search/search/doc/poi-search-principal-learning-roadmap.md)
-2. 同时读 [search-architect-ultimate-roadmap.md](/Users/levi/develop/project/search/search/doc/search-architect-ultimate-roadmap.md)
-3. 然后按 [search-architect-24-month-execution-plan.md](/Users/levi/develop/project/search/search/doc/search-architect-24-month-execution-plan.md) 执行
+1. 直接读 [poi-search-principal-learning-roadmap.md](poi-search-principal-learning-roadmap.md)
+2. 同时读 [search-architect-ultimate-roadmap.md](search-architect-ultimate-roadmap.md)
+3. 然后按 [search-architect-24-month-execution-plan.md](search-architect-24-month-execution-plan.md) 执行
 
 如果你的目标就是搜索架构师：
 
-1. 用 [search-architect-ultimate-roadmap.md](/Users/levi/develop/project/search/search/doc/search-architect-ultimate-roadmap.md) 定义上限
-2. 先按 [search-architect-first-90-days-task-board.md](/Users/levi/develop/project/search/search/doc/search-architect-first-90-days-task-board.md) 起步
-3. 再用 [search-architect-24-month-execution-plan.md](/Users/levi/develop/project/search/search/doc/search-architect-24-month-execution-plan.md) 管长期节奏
-4. 用 [search-architect-reading-experiments-and-teardowns.md](/Users/levi/develop/project/search/search/doc/search-architect-reading-experiments-and-teardowns.md) 管输入和实验
+1. 用 [search-architect-ultimate-roadmap.md](search-architect-ultimate-roadmap.md) 定义上限
+2. 先按 [search-architect-first-90-days-task-board.md](search-architect-first-90-days-task-board.md) 起步
+3. 再用 [search-architect-24-month-execution-plan.md](search-architect-24-month-execution-plan.md) 管长期节奏
+4. 用 [search-architect-reading-experiments-and-teardowns.md](search-architect-reading-experiments-and-teardowns.md) 管输入和实验
 5. 用项目手册、模板、方案模板把过程沉淀下来
 
 ## 4. 每周怎么用
@@ -141,7 +141,7 @@
 如果你遇到：
 
 - `数据融合、清洗、去重`
-  去看 [poi-search-principal-learning-roadmap.md](/Users/levi/develop/project/search/search/doc/poi-search-principal-learning-roadmap.md) 和 [search-architect-ultimate-roadmap.md](/Users/levi/develop/project/search/search/doc/search-architect-ultimate-roadmap.md)
+  去看 [poi-search-principal-learning-roadmap.md](poi-search-principal-learning-roadmap.md) 和 [search-architect-ultimate-roadmap.md](search-architect-ultimate-roadmap.md)
 
 - `Suggest、别名、意图识别`
   去看负责人版路线和资料/实验清单
@@ -159,7 +159,7 @@
   直接去看架构师路线和执行计划后半段
 
 - `我现在这周到底做什么`
-  先去看 [search-architect-first-90-days-task-board.md](/Users/levi/develop/project/search/search/doc/search-architect-first-90-days-task-board.md)
+  先去看 [search-architect-first-90-days-task-board.md](search-architect-first-90-days-task-board.md)
 
 ## 9. 最推荐的使用方式
 

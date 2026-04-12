@@ -372,8 +372,8 @@
 
 这份任务面板要和下面几份文档一起用：
 
-- 用 [search-architect-ultimate-roadmap.md](/Users/levi/develop/project/search/search/doc/search-architect-ultimate-roadmap.md) 看长期方向
-- 用 [search-architect-24-month-execution-plan.md](/Users/levi/develop/project/search/search/doc/search-architect-24-month-execution-plan.md) 看完整节奏
-- 用 [map-search-templates.md](/Users/levi/develop/project/search/search/doc/map-search-templates.md) 记录每周过程
+- 用 [search-architect-ultimate-roadmap.md](search-architect-ultimate-roadmap.md) 看长期方向
+- 用 [search-architect-24-month-execution-plan.md](search-architect-24-month-execution-plan.md) 看完整节奏
+- 用 [map-search-templates.md](map-search-templates.md) 记录每周过程
 
 不要跳周执行。前 90 天最怕的不是学得慢，而是基础没打实就提前做模型和复杂架构。

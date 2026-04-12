@@ -1,8 +1,61 @@
 # 地图搜索学习资料包
 
-更新时间：2026-03-29
+更新时间：2026-04-12
 
 这套资料面向地图搜索 / 本地搜索工程师，目标是帮助你从搜索工程师成长到能够独立负责效果、评估、地理能力和系统演进的资深搜索专家。
+
+## 3 分钟开始
+
+如果你现在只想知道怎么开始，按这个顺序：
+
+1. 先读 [搜索学习资料使用手册](search-docs-usage-manual.md)
+2. 再读 [搜索架构师最高阶学习路线图](search-architect-ultimate-roadmap.md)
+3. 然后直接执行 [搜索架构师前 90 天任务面板](search-architect-first-90-days-task-board.md)
+4. 同步用 [地图搜索模板与工作流](map-search-templates.md) 记录
+5. 做到第 2 阶段后，再接 [搜索架构师 24 个月执行计划](search-architect-24-month-execution-plan.md)
+
+如果你今天就开始，本周只做 4 件事：
+
+- 梳理当前搜索主链路
+- 盘点 query / 点击 / POI / 索引数据
+- 起草 query taxonomy
+- 产出链路草图和数据资产清单
+
+## 怎么实施
+
+不要按“读完一堆文档”来做，按“每周交付”来做。
+
+固定节奏：
+
+1. 周一确定本周主题
+2. 周二读资料和源码
+3. 周三做最小实验
+4. 周四分析 badcase 和日志
+5. 周五写周报和结论
+
+每周必须留下：
+
+- `1` 篇笔记
+- `1` 个实验
+- `10` 条 badcase 分析
+- `1` 个结构化交付物
+
+每月必须做：
+
+1. 跑一轮离线评估
+2. 更新 badcase 分布
+3. 写 1 份月度复盘
+4. 做 1 次自测
+5. 判断是否进入下一阶段
+
+## 遇到问题看哪份
+
+- 不知道先看哪个：看 [搜索学习资料使用手册](search-docs-usage-manual.md)
+- 不知道这周做什么：看 [搜索架构师前 90 天任务面板](search-architect-first-90-days-task-board.md)
+- 不知道长期怎么走：看 [搜索架构师 24 个月执行计划](search-architect-24-month-execution-plan.md)
+- 不知道读什么、做什么实验：看 [搜索架构师必读资料、必做实验、必拆源码清单](search-architect-reading-experiments-and-teardowns.md)
+- 不知道怎么记 badcase、周报、评估：看 [地图搜索模板与工作流](map-search-templates.md)
+- 不知道怎么写专项方案：看 [地图搜索技术方案模板](map-search-tech-design-template.md)
 
 ## 文档索引
 
@@ -28,20 +81,6 @@
   - 分模块题库、答案要点、负责人级问题、90 天 / 6 个月 / 9 个月自测清单
 - [地图搜索技术方案模板](map-search-tech-design-template.md)
   - 负责人视角的技术方案写法、专项治理方案模板、风险回滚模板
-
-## 建议使用顺序
-
-1. 先读 [搜索学习资料使用手册](search-docs-usage-manual.md)
-2. 再读 [地图搜索资深专家学习路线图](map-search-senior-learning-roadmap.md) 建立总体框架
-3. 如果你已经进入真实 POI / 本地搜索开发，立即并行阅读 [POI 搜索负责人级学习路线图](poi-search-principal-learning-roadmap.md)
-4. 如果你的目标是搜索架构师，继续阅读 [搜索架构师最高阶学习路线图](search-architect-ultimate-roadmap.md)
-5. 先按 [搜索架构师前 90 天任务面板](search-architect-first-90-days-task-board.md) 起步
-6. 再用 [搜索架构师 24 个月执行计划](search-architect-24-month-execution-plan.md) 管理长期推进
-7. 用 [搜索架构师必读资料、必做实验、必拆源码清单](search-architect-reading-experiments-and-teardowns.md) 选择输入与实验
-8. 同步使用 [地图搜索模板与工作流](map-search-templates.md) 记录过程
-9. 每月做一次 [地图搜索自测题库与面试题](map-search-self-assessment-and-interview-bank.md) 自检
-10. 当你进入专项优化阶段，按 [地图搜索实战项目手册](map-search-practice-projects.md) 落项目
-11. 当你要主导复杂专项时，使用 [地图搜索技术方案模板](map-search-tech-design-template.md) 输出方案
 
 ## 推荐执行节奏
 
